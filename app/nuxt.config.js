@@ -12,14 +12,8 @@ module.exports = {
   buildDir: resolve(__dirname, '.nuxt'),
 
   manifest: {
-    name: 'Contact Book',
-    description: 'My Contact Book'
-  },
-
-  // Framework7 Config
-  framework7: {
-    f7Icons: false,
-    mdIcons: false,
+    name: 'YO!',
+    description: 'Yo'
   },
 
   // Build configuration
@@ -35,7 +29,8 @@ module.exports = {
 
   // Additional CSS configuration
   css: [
-    'assets/app.css'
+    'assets/app.css',
+
   ],
 
 
