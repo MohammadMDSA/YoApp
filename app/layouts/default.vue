@@ -1,6 +1,5 @@
 <template>
 	<div class="theme-dark color-theme-red">
-		<f7-statusbar/>
 		<nuxt/>
 	</div>
 </template>

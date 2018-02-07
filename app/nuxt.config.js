@@ -30,12 +30,11 @@ module.exports = {
   // Additional CSS configuration
   css: [
     'assets/app.css',
-
   ],
 
 
   plugins: [
-    'plugins/icons.js'
+    'plugins/onsen'
   ],
 
   proxy: [
